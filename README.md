@@ -14,7 +14,7 @@ Used car pricing is often inconsistent and subjective. Our goal is to build a da
 
 ```
 .
-├── vamsi_(1).ipynb       # Main notebook containing full pipeline
+├── ucpps-notebook.ipynb       # Main notebook containing full pipeline
 └── README.md             # This file
 ```
 
